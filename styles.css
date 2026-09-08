@@ -13,3 +13,29 @@ body{
   text-align: center;
 
 }
+
+
+.post-img{
+    width: 100%;
+    height:auto;
+    border-bottom: 8px solid #333
+}
+
+.post-content{
+  padding:20px;
+}
+
+.post-title, .post-excerpt{
+  color: brown;
+  margin:4px;
+}
+
+.read-more{
+  background-color:gray;
+  margin:10px;
+  padding:12px;
+  border-radius:10px;
+  display:inline-block;
+  text-decoration:none;
+  color:white;
+}
